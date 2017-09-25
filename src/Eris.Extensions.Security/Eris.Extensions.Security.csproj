@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Eris</Authors>
+    <Product />
+    <Company />
+    <Description>Extensions to easily convert from and to a SecureString object</Description>
+    <PackageLicenseUrl>https://github.com/wazowsk1/eris-extensions-security/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/wazowsk1/eris-extensions-security</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/wazowsk1/eris-extensions-security</RepositoryUrl>
+    <PackageTags>Eris SecureString</PackageTags>
   </PropertyGroup>
 
 </Project>
